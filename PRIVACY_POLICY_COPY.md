@@ -4,6 +4,19 @@
 
 ---
 
+## ⚠️ LEGAL DISCLAIMER - READ FIRST
+
+**THIS IS A DRAFT DOCUMENT ONLY.**
+
+I am not a lawyer. This Privacy Policy was created based on research of PE firm best practices and SEC compliance requirements, but it is a DRAFT template only.
+
+**REQUIRED ACTION:**
+George MUST have this document reviewed and approved by Silicon Century Capital's legal counsel before publishing it on the website. The Privacy Policy should be customized to SCC's specific business practices and verified for legal compliance by a qualified attorney.
+
+**DO NOT publish this document without legal review.**
+
+---
+
 ## Hero Section
 **Headline:** Privacy Policy
 **Subheadline:** Effective Date: November 2025

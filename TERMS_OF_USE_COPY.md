@@ -4,6 +4,23 @@
 
 ---
 
+## ⚠️ LEGAL DISCLAIMER - READ FIRST
+
+**THIS IS A DRAFT DOCUMENT ONLY.**
+
+I am not a lawyer. This Terms of Use document was created based on research of PE firm best practices, SEC compliance requirements (Rule 506(c), accredited investor regulations), and standard legal protections, but it is a DRAFT template only.
+
+**REQUIRED ACTION:**
+George MUST have this document reviewed and approved by Silicon Century Capital's legal counsel before publishing it on the website. The Terms of Use should be customized to SCC's specific business practices and verified for legal compliance by a qualified attorney, particularly:
+- SEC compliance and securities law disclaimers
+- Accredited investor representations
+- Liability limitations and indemnification clauses
+- Governing law and dispute resolution provisions
+
+**DO NOT publish this document without legal review.**
+
+---
+
 ## Hero Section
 **Headline:** Terms of Use
 **Subheadline:** Effective Date: November 2025

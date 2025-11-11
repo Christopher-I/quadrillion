@@ -206,6 +206,9 @@ These items were NOT in the original proposal but were completed to ensure the h
 - Ensured full compliance with securities regulations and standard PE firm legal practices
 **Typical Value:** Legal copywriting ~$800-1,200 (both documents)
 
+**⚠️ IMPORTANT LEGAL DISCLAIMER:**
+**I am not a lawyer, and these documents are DRAFT templates only.** While I researched PE firm best practices and SEC compliance requirements, George MUST have these documents reviewed and approved by his legal counsel before publishing them on the website. The Privacy Policy and Terms of Use should be customized to SCC's specific business practices and verified for legal compliance by a qualified attorney. This ensures proper legal protection for Silicon Century Capital.
+
 ### **8. Comprehensive QA Checklist (Out of Scope)**
 **What We Did:** Created detailed pre-launch quality assurance checklist
 - Original proposal included basic QA, but we created comprehensive checklist covering:
