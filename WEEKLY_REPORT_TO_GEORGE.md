@@ -8,8 +8,41 @@
 ## Progress vs. Original Agreement
 
 **Original Scope:** 10 pages, 3 weeks, $8,500
-- Note: "Team" and "Advisory Board" pages consolidated into About page (you're the only team member currently)
-- **Revised Core Scope:** 7 essential pages
+
+### Why 7 Pages Instead of 10?
+
+**Original 10 Pages Proposed:**
+1. ✅ Home
+2. ✅ About / Our Approach
+3. ✅ Investment Strategy / Sectors
+4. ✅ Contact
+5. ✅ Portfolio
+6. ✅ Privacy Policy
+7. ✅ Terms of Use
+8. ❌ Team page
+9. ❌ Advisory Board page
+10. ❌ Industries We Serve (separate page)
+
+**What Changed & Why:**
+
+**Team Page → Consolidated into About Page**
+- You're currently the only team member
+- Creating a separate "Team" page with just one person looks incomplete and raises questions
+- Your bio, photo, and background are prominently featured in the "Meet Our Founder" section on the About page
+- This is more professional than a sparse team page
+- When you add team members in the future, we can create a dedicated Team page
+
+**Advisory Board Page → Not Built**
+- You don't have an advisory board yet
+- Building an empty page would look unprofessional
+- When you form an advisory board, we can add this page easily
+
+**Industries We Serve → Merged into Investment Focus Page**
+- Your 4 core sectors (Semiconductors, Advanced Manufacturing, Robotics, AI) are covered in detail on the Investment Focus page
+- Each sector has full sections with Focus Areas, Our View, and SCC Value Add
+- No need for a separate "Industries" page - would be redundant
+
+**Result:** 7 high-quality, complete pages instead of 10 pages with 3 being sparse/empty
 
 **Progress:** 7 of 7 pages complete (100%)
 **Timeline:** Ahead of schedule
