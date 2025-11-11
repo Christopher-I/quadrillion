@@ -89,12 +89,17 @@ These items were NOT in the original proposal but I completed them to ensure qua
    - I am not a lawyer - you MUST have your attorney review these before publishing
    - Do not publish these documents without legal approval
 
-2. **Email Addresses for Website**
-   - Need two separate email addresses:
+2. **Email Addresses for Website (Recommendation)**
+   - I recommend setting up two separate email addresses:
      - `investors@siliconcenturycapital.com` (for accredited investors)
      - `deals@siliconcenturycapital.com` (for management teams and deal partners)
-   - **Why separate emails?** This is standard practice for PE firms to properly route and prioritize inquiries from different audiences
-   - These addresses need to be set up with your email provider before launch
+   - **Why this approach vs. just the form you suggested?**
+     - More industry standard for PE firms - most use dedicated email addresses
+     - Easier to manage and maintain - emails go directly to your inbox
+     - More professional - shows you're serious and accessible
+     - Better for high-value contacts who prefer direct email over forms
+     - You can still keep the general inquiry form as a backup option
+   - If you agree with this approach, these addresses need to be set up with your email provider before launch
 
 3. **Your Bio/Background**
    - Need updated bio text if you want to change what's currently on the About page
