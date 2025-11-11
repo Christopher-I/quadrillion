@@ -206,7 +206,25 @@ These items were NOT in the original proposal but were completed to ensure the h
 - Ensured full compliance with securities regulations and standard PE firm legal practices
 **Typical Value:** Legal copywriting ~$800-1,200 (both documents)
 
-### **8. Factsheet Integration (Out of Scope - Pending)**
+### **8. Comprehensive QA Checklist (Out of Scope)**
+**What We Did:** Created detailed pre-launch quality assurance checklist
+- Original proposal included basic QA, but we created comprehensive checklist covering:
+  - Design & brand consistency (20+ items)
+  - Responsive design testing across all devices (30+ items)
+  - Navigation & links verification (20+ items)
+  - Content proofreading and accuracy checks (15+ items)
+  - Image quality and optimization (15+ items)
+  - Forms & functionality testing (10+ items)
+  - SEO & technical checks (15+ items)
+  - Accessibility compliance (10+ items)
+  - Performance optimization (10+ items)
+  - Browser testing across platforms (10+ items)
+  - Security checks (5+ items)
+  - Post-launch monitoring plan (5+ items)
+- **Total: 150+ QA checkpoints** across all categories
+**Typical Value:** QA planning ~$300-400
+
+### **9. Factsheet Integration (Out of Scope - Pending)**
 **What We'll Do:** George will provide factsheets to add to the website
 - Not included in original proposal scope
 - Will integrate factsheets into appropriate pages once received
@@ -214,7 +232,7 @@ These items were NOT in the original proposal but were completed to ensure the h
 **Status:** Awaiting factsheet materials from George
 **Typical Value:** Document integration ~$150-300 (depending on complexity)
 
-**Total Out-of-Scope Value Delivered:** ~$2,325-3,000
+**Total Out-of-Scope Value Delivered:** ~$2,625-3,400
 **Additional Out-of-Scope Value (Pending):** ~$150-300 (factsheet integration)
 
 ---
