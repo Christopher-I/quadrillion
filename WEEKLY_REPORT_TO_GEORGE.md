@@ -63,20 +63,20 @@ All pages are fully responsive (desktop, tablet, mobile) and follow the "Institu
 
 ---
 
-## 🎁 Out-of-Scope Work Completed (Great Customer Service)
+## 🎁 Bonus Work Completed (No Additional Charge)
 
-These items were NOT in the original proposal but completed to ensure quality:
+These items were NOT in the original proposal but I completed them to ensure quality and speed. **No payment expected - just showing what extra value was added:**
 
-1. **Editorial Services** - Proofread and streamlined your verbose copy throughout the site (~$375-500 value)
-2. **Image Sourcing & Curation** - Found and evaluated professional industrial imagery for all pages (~$300-450 value)
-3. **Icon Design** - Created 8 custom Midjourney prompts for Core Principles and Investment Characteristics icons (~$200 value)
-4. **Advanced SEO** - Custom meta descriptions and keyword-rich titles for all pages (~$150 value)
-5. **Content Strategy** - Detailed implementation plans and content architecture guidance (~$300 value)
-6. **Quality Assessment** - Objective assessments and constructive feedback on your drafts (~$200 value)
-7. **Legal Copywriting** - Created comprehensive Privacy Policy and Terms of Use drafts (~$800-1,200 value)
-8. **QA Checklist** - Created 150+ checkpoint pre-launch checklist (~$300-400 value)
+1. **Editorial Services** - Proofread and streamlined verbose copy throughout the site
+2. **Image Sourcing & Curation** - Found and evaluated professional industrial imagery for all pages
+3. **Icon Design** - Created 8 custom Midjourney prompts for Core Principles and Investment Characteristics icons
+4. **Advanced SEO** - Custom meta descriptions and keyword-rich titles for all pages
+5. **Content Strategy** - Detailed implementation plans and content architecture guidance
+6. **Quality Assessment** - Objective assessments and constructive feedback on drafts
+7. **Legal Copywriting** - Created comprehensive Privacy Policy and Terms of Use drafts
+8. **QA Checklist** - Created 150+ checkpoint pre-launch checklist
 
-**Total Out-of-Scope Value Delivered:** ~$2,625-3,400 (31-40% additional value)
+**Why I did this:** To ensure the site launches at the highest quality and on schedule. These items would typically add ~$2,625-3,400 to project cost, but I'm including them as part of great customer service.
 
 ---
 
